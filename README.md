@@ -3,12 +3,12 @@
 The project is an online voting system that uses facial recognition and aadhar number to authenticate voters and record their votes. The system ensures that each voter can only vote once and provides a user-friendly interface for casting votes.
 
 # Tech Stack
-Python: The core programming language used for developing the system.
-OpenCV: Used for facial detection and recognition.
-scikit-learn: Used for the K-Nearest Neighbors (KNN) classifier to recognize faces.
-pickle: Used for saving and loading the trained model and label data.
-win32com: Used for text-to-speech functionality.
-CSV: Used for storing votes.
+1. Python: The core programming language used for developing the system.
+2. OpenCV: Used for facial detection and recognition.
+3. scikit-learn: Used for the K-Nearest Neighbors (KNN) classifier to recognize faces.
+4. pickle: Used for saving and loading the trained model and label data.
+5. win32com: Used for text-to-speech functionality.
+6. CSV: Used for storing votes.
 
 
 # Project Structure
